@@ -1,0 +1,15 @@
+.max-width-screen {
+  max-width: 1171px;
+  margin-inline: auto;
+}
+.font-raleway {
+  font-family: "Raleway", sans-serif;
+}
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+.banner-bg{
+    background-image: url('images/banner.png');
+    border-radius: 25px;
+    height: 540px;
+}
